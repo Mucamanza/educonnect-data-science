@@ -1,0 +1,23 @@
+git clone repository url //to clone the repository
+
+ git config --global user.email "you@example.com" and git config --global user.name "Your Name" // to configure my git identity
+
+ git touch //to create files
+
+ mkdir // to create folders
+
+ echo"message" >filename // to write on files
+
+ git add . // to add all changed files
+
+ git commit -m "message" //to commit the changes
+
+ git push origin branch-name // to push the changes
+
+ git chckout -b new-branch // switching to and creating a new branch aat once
+
+ git checkout branch-name // to switch to another branch
+
+ git merge // to merge changes from different branches and solve conflicts
+
+ git pull repository url // to pull changes
